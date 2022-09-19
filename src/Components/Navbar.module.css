@@ -1,0 +1,14 @@
+.navbarWrapper {
+    padding: 10px 10px;
+    grid-area: n;
+    background-color: #aabbaa;
+}
+
+.textNavbar a{
+    color: black;
+    text-decoration: none;
+}
+
+.isActive {
+    color: indigo;
+}
